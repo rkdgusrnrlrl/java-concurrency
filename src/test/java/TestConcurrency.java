@@ -5,7 +5,10 @@ import static junit.framework.TestCase.fail;
 public class TestConcurrency {
 
     @Test
-    public void testIsOk() {
-        fail("fail is  ok");
+    public void testIsOk() { }
+
+    @Test
+    public void testRunnerable() {
+
     }
 }
